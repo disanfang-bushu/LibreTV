@@ -1,3 +1,4 @@
+edgeone无法检测变量
 # LibreTV - 免费在线视频搜索与观看平台
 
 <div align="center">
